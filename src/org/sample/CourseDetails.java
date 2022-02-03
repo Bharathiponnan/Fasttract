@@ -9,6 +9,10 @@ public class CourseDetails {
 		System.out.println("m2 is created by denish");
 	}
 
+	private void m3() {
+		System.out.println("m3 method created by sundhar");
+	}
+
 	public static void main(String[] args) {
 		int a = 100;
 		System.out.println("a:" + a);
